@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.add-style-button-left{
+    background-color: black;
+    color: white;
+} 
+
+.add-style-button-right{
+    background-color: yellow;
+}
+.add-style-button-left,
+.add-style-button-right{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", "sans-serif";
+}
